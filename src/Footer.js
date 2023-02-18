@@ -4,6 +4,11 @@ import { Link, useLocation } from "react-router-dom";
 function Footer() {
   return (
     <footer>
+    <div class="container_mouse">
+        <span class="mouse-btn">
+            <span class="mouse-scroll"></span>
+        </span>
+    </div>
     <div className="social">
         <a className="navi-extra" href="https://instagram.com">INSTAGRAM</a>
         <a className="navi-extra">•</a>

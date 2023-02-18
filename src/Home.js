@@ -1,16 +1,18 @@
-import React from "react";
+import React, { useState, useEffect } from "react";
 import TextChanger from './TextChanger';
 import { Link } from "react-router-dom";
 import NavBar from './Navbar';
 import Footer from "./Footer";
+import ScrollBar from "./ScrollBar"
 
-function Home(){
-    return(
+function Home() {
+return(
 <section className="main"> 
     <div className="announcement-bar">
     <NavBar />
         <p className="moving-text">WE ARE LAUNCHING ON THE 15TH OF MARCH! <span className="spacing"></span> PRE-ORDER NOW TO SAVE 15% <span className="spacing">
             </span> DEAL ENDS ON THE 10TH OF MARCH....<span className="spacing" style={{width: '400px'}}></span>GET A FREE NOTION TEMPLATE BY CLICKING THE 'CLICK HERE'<span className="large-spacing"></span>NO TIME TO WASTE! <span className="large-spacing"></span>PRE ORDER RIGHT NOW</p></div>
+    <ScrollBar />
     <div className="main-content">    
         <div className="left-box">
             <h1 id="mmm">Monk. Mode. Movement.</h1>
@@ -23,7 +25,6 @@ function Home(){
                 <Link className="button-text-1" to="/Buy"><button className="button-started">CLICK HERE!</button></Link>
             </div>
         </div>
-    </div>
     <div className="side-menu">
         <a href="index.html"><img className="side-menu-icons" alt="icon" src="./SVG/home.svg"></img></a>
         <a href="index.html"><img className="side-menu-icons" alt="icon" src="./SVG/share.svg"></img></a>
@@ -66,12 +67,15 @@ function Home(){
             </p>
         </div>
     </div>
+    </div>
     <div class="ball-container">
         <div class="ball ball-1"></div>
         <div class="ball ball-2"></div>
         <div class="ball ball-3"></div>
         <div class="ball ball-4"></div>
+        <div class="ball ball-5"></div>
     </div>
+    <h3 class="scroll-explore">scroll to explore!</h3>
     <Footer />
 </section>
     )
