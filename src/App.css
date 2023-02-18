@@ -89,18 +89,19 @@ body {
 }
 
 .ball-2 {
-  background-color: rgb(0, 234, 255);
-  transform: rotate(45deg) translate(200%, 80%);
+  background: linear-gradient(to bottom right,  rgb(0, 234, 255), rgba(0, 81, 255, 0.801));
+  transform: rotate(45deg) translate(200%, -100%);
 }
 
 .ball-3 {
+  background: linear-gradient(to bottom right,  rgb(46, 43, 255), rgba(0, 225, 255, 0.801));
   background-color: rgb(0, 15, 153);
-  transform: rotate(-30deg) translate(100%, 180%);
+  transform: rotate(-30deg) translate(-150%, 180%);
 }
 
 .ball-4 {
-  background-color: rgb(0, 110, 255);
-  transform: rotate(15deg) translate(250%, 220%);
+  background-color: rgb(73, 53, 255);
+  transform: rotate(0deg) translate(-300%, 350%);
 }
 
 .second-main {
@@ -361,18 +362,18 @@ nav {
 
 .button-started {
   position: absolute;
-  width: 18vw;
+  width: 20vw;
   height: 100px;
-  color: #000000;
+  color: #ffffff;
   font-family: Inter, Avenir, Helvetica, Arial, sans-serif;
   font-weight: bold;
   font-size: 30px;
-  background-color: #ffffff;
+  background-color: rgb(47, 130, 255);
   border-color: transparent;
   border-radius: 15px;
   font-weight: 800 !important;
   transition: 0.5s;
-  box-shadow: 8px 8px rgb(68, 68, 68);
+  /* box-shadow: 8px 8px rgb(68, 68, 68); */
   cursor: pointer;
 }
 
@@ -1153,9 +1154,10 @@ h5 {
   font-weight: 800 !important;
 }
 
-@media screen and (max-width: 1400px) {
+@media screen and (max-width: 2000px) {
   h5 {
       font-size: 100%;
+      font-size: 25px;
   }
 }
 
@@ -1181,6 +1183,7 @@ h5 {
   }
 }
 
+
 @media screen and (max-width: 800px) {
   h5 {
       display: none;
@@ -1198,20 +1201,6 @@ h5 {
   margin-top: -50px;
   width: 25vw;
   height: auto;
-}
-
-@media screen and (max-width: 1400px) {
-  .text-gradient {
-      width: 40vw;
-      height: auto;
-  }
-}
-
-@media screen and (max-width: 2100px) {
-  .text-gradient {
-      width: 40vw;
-      height: auto;
-  }
 }
 
 
@@ -2019,54 +2008,20 @@ div[class*='column'] {
 .mock-up-course {
   position: absolute;
   z-index: 10;
-  width: 35vw;
+  width: 32vw;
   height: 55vh;
   border-radius: 20px;
   background-color: #091d3a83;
   /* background-image: linear-gradient(to top, rgba(255, 0, 0, 0) 20%, rgba(255, 255, 255, 0.015) 40%); */
   border-style: solid solid none;
-  border-color: rgb(184, 184, 184);
+  border-color: rgb(255, 255, 255);
   border-width: 1px;
-  right: 10%;
+  right: 15%;
   top: 25%;
   transition: 0.5s ease-in-out;
 }
 
-@media screen and (max-width: 2400px) {
-  .mock-up-course {
-      zoom: 80%;
-      height: 70vh;
-      right: 10%;
-      top: 30%;
-  }
-}
 
-@media screen and (max-width:2100px) {
-  .mock-up-course {
-      zoom: 80%;
-      height: 85vh;
-      right: 10%;
-      top: 30%;
-  }
-}
-
-@media screen and (max-width:2300px) {
-  .mock-up-course {
-      zoom: 60%;
-      height: 85vh;
-      right: 10%;
-      top: 30%;
-  }
-}
-
-@media screen and (max-width:1800px) {
-  .mock-up-course {
-      zoom: 60%;
-      height: 90vh;
-      right: 10%;
-      top: 40%;
-  }
-}
 
 @media screen and (max-width: 1400px) {
   .mock-up-course {
@@ -2148,7 +2103,7 @@ hr {
   border: 1px solid rgb(157, 183, 255);
   opacity: 40%;
   border-radius: 5px;
-  width: 350px;
+  width: 90%;
   position: absolute;
 }
 
@@ -2158,7 +2113,7 @@ hr {
   top: 25%;
   left: 50%;
   transform: translate(-50%, -50%);
-  width: 920px;
+  width: 90%;
   height: 150px;
   border-radius: 5px;
   background-color: rgba(0, 204, 255, 0.123);
@@ -2174,7 +2129,7 @@ hr {
   left: 22%;
   margin: 25px;
   transform: translate(-50%, -50%);
-  width: 400px;
+  width: 40%;
   height: 150px;
   border-radius: 5px;
   background-color: rgba(0, 204, 255, 0.123);
@@ -2188,7 +2143,7 @@ hr {
   top: 26%;
   left: 70%;
   transform: translate(-50%, -50%);
-  width: 400px;
+  width: 40%;
   height: 350px;
   border-radius: 10px;
   background-color: rgba(0, 36, 46, 0.199);
@@ -2215,8 +2170,6 @@ hr {
   }
 }
 
-
-
 .hand-book {
   position: absolute;
   width: 400px;
@@ -2228,7 +2181,7 @@ hr {
   top: 45%;
   left: 50%;
   transform: translate(-50%, -50%);
-  width: 920px;
+  width: 95%;
   height: 50px;
   /* background-color: black; */
   border-bottom: 2px solid rgba(255, 255, 255, 0.4);
@@ -2238,7 +2191,7 @@ hr {
 .mock-list-headings {
   font-size: 15px;
   color: white;
-  padding: 40px;
+  padding: 30px;
   font-weight: 400;
   letter-spacing: .08rem;
   font-family: Inter, Avenir, Helvetica, Arial, sans-serif;

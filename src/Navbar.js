@@ -23,7 +23,7 @@ function NavBar() {
           <a className="far-text"> • CONTACT •</a>  
         </div>
       <div className="header-right">
-        <a className="button-text"><button onClick="buynow2()" className="button-buy">Buy Now</button></a>
+        <a className="button-text"><button onClick="buynow2()" className="button-buy">Buy Now -></button></a>
       </div>
       <div className="wrapper">
         <ul>
