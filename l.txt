@@ -1,0 +1,278 @@
+                <p class="scroll-container-paragraph">
+                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque fermentum nunc ornare, posuere justo ac, facilisis mauris. Morbi consequat eros in orci venenatis egestas. Pellentesque vehicula efficitur massa nec hendrerit. Nunc lectus nisi, egestas et turpis ac, faucibus vulputate lectus. Nullam quis sollicitudin nunc, vitae imperdiet est. Nunc sed justo eu massa molestie blandit vel vel velit. Pellentesque finibus vulputate mattis. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Sed condimentum justo quis lectus gravida maximus. Nullam tincidunt fermentum lorem, eu sollicitudin augue convallis ut.
+                    
+                    Proin gravida auctor lacus eget finibus. Ut pellentesque augue quis commodo bibendum. Nullam laoreet ultrices nulla, nec pharetra dui tristique cursus. Nullam interdum finibus malesuada. Nulla facilisi. Nam et nunc et neque commodo lobortis lacinia at tortor. Integer laoreet scelerisque sapien, non pharetra justo rutrum vitae. Nulla iaculis sapien sed tortor aliquet condimentum.
+                    
+                    Praesent vitae fermentum arcu. Phasellus augue eros, pharetra sed efficitur sit amet, sodales sit amet sapien. Nam suscipit ut nisi vel sollicitudin. Vivamus vestibulum volutpat nisi sit amet dignissim. Nulla massa est, interdum sed lacinia ut, sagittis vel mauris. Proin volutpat a sapien vitae sollicitudin. Maecenas aliquet at massa sit amet varius. Ut et nunc quis turpis iaculis congue. Integer quis felis non diam vulputate ultricies vitae quis elit. Sed id eros massa. Sed sit amet sapien rhoncus felis cursus commodo quis et erat.
+                    
+                    Vestibulum feugiat lobortis ligula sit amet lobortis. In bibendum ligula vel convallis suscipit. In ultricies, orci ac viverra vehicula, tellus felis accumsan felis, id ullamcorper est nisi vitae augue. Proin maximus dui eros, id malesuada urna ornare sit amet. Sed pulvinar, neque a tincidunt hendrerit, ante enim ornare neque, nec aliquam tellus lectus sed eros. Nam nec porta justo. In blandit quis nulla a tincidunt. Etiam condimentum lobortis nunc, nec posuere nibh tincidunt et. In et dui mauris.
+                    
+                    Nulla sodales gravida odio, at rutrum urna vehicula id. Donec feugiat mi id massa euismod, vel blandit lacus dictum. Pellentesque augue dolor, dictum nec lectus et, vehicula lobortis sem. Sed sodales justo convallis elit maximus, eget vehicula velit egestas. Cras hendrerit velit vel dolor semper, eu porta nisi accumsan. Praesent dignissim lobortis leo a pellentesque. Pellentesque consequat fermentum nisl, a auctor purus facilisis quis. Nunc vulputate est sapien, id dapibus urna convallis ut. Ut sed finibus lectus, non efficitur tortor. Vivamus pellentesque, nibh non porttitor scelerisque, felis ipsum egestas eros, vitae faucibus tortor tortor vitae odio. Mauris et sem dapibus, feugiat ligula sit amet, dapibus ante. Curabitur venenatis risus in massa sodales, nec ultricies lacus aliquam. Nullam lacinia lobortis tellus, eget sodales magna suscipit ac. Phasellus laoreet hendrerit massa. Vestibulum venenatis enim vel metus accumsan, a maximus mi egestas.
+                    
+                    Proin est diam, gravida sit amet malesuada in, vestibulum quis eros. Aliquam faucibus arcu erat, at dictum justo iaculis vitae. Etiam volutpat ullamcorper leo, sit amet rhoncus turpis feugiat a. Vivamus auctor lectus ut fermentum placerat. Cras congue ac sapien eu suscipit. Sed nisl orci, porta et aliquet at, ornare ut orci. Duis ac massa condimentum, fermentum velit sed, tincidunt urna. Fusce sed ex fermentum, maximus massa quis, dapibus odio. Nullam finibus pretium arcu id tempor. Nulla venenatis tempus mauris, eget porttitor urna suscipit placerat.
+                    
+                    Nunc venenatis iaculis tortor quis laoreet. Praesent pharetra metus ligula, id accumsan eros viverra in. Phasellus ac odio turpis. Pellentesque malesuada sollicitudin eros vitae tincidunt. Nullam nec ultricies nibh. Vivamus vestibulum euismod semper. Suspendisse elementum augue quis erat interdum congue. Integer sagittis felis eu venenatis tincidunt. Morbi vitae venenatis neque.
+                    
+                    Duis pharetra bibendum erat, quis volutpat urna tincidunt in. Nulla facilisi. Nullam ante neque, iaculis eget elementum sed, mattis et nisl. Fusce in nisi urna. Nulla elementum vestibulum sem sit amet rutrum. Nunc eleifend nec diam et aliquet. Aenean sit amet eros vel odio semper iaculis at sed odio. Maecenas sed tincidunt ex. Aenean elit nisi, varius eu sapien quis, varius fringilla erat.
+                    
+                    Aliquam auctor lectus nec tortor euismod tincidunt. Donec justo est, tincidunt et nibh at, suscipit interdum sapien. Donec luctus urna porta ex finibus, et commodo lectus dignissim. Etiam ac ornare sem. Mauris finibus semper eleifend. Phasellus eget arcu eu nibh mattis blandit. Integer sit amet nunc id odio tempor tempus. In eu tellus sit amet felis consequat tincidunt. Nulla hendrerit porta dolor. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Aenean a sodales sem. Vestibulum bibendum ut lectus id rhoncus.
+                    
+                    Duis id erat nulla. Nam consectetur accumsan cursus. In egestas, turpis in mollis ullamcorper, ligula lectus iaculis velit, nec vulputate nunc risus at turpis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Etiam a risus mi. Suspendisse tempus nec tellus quis suscipit. Donec ornare felis metus, iaculis fermentum mauris vestibulum ut. Praesent condimentum sed nibh in vestibulum. Proin lacinia faucibus dapibus. Maecenas mattis quam mauris, sed fringilla justo semper ut. Donec hendrerit et ex eget iaculis. Sed placerat augue felis. Vestibulum vel lorem arcu. Aliquam luctus at arcu nec rutrum. Nam interdum augue sed dapibus consectetur. In eget vehicula mi, ut tempor mi.
+                    
+                    Vestibulum porttitor vitae nibh sed convallis. In in ultrices justo. Aliquam pulvinar sollicitudin metus in vestibulum. Aenean ullamcorper vestibulum massa, at pellentesque magna. Maecenas tincidunt vehicula sem, non interdum ex pellentesque non. Pellentesque lectus dui, gravida eget rhoncus nec, suscipit nec dolor. Pellentesque eu sollicitudin lorem, nec aliquam quam. Aenean orci purus, molestie et nisi et, accumsan dictum sapien. Nulla in leo at erat pellentesque lobortis. Quisque egestas erat in facilisis mattis. Duis a massa non orci dignissim pharetra eu nec tellus. Phasellus maximus laoreet turpis, at convallis magna facilisis ut.
+                    
+                    Fusce imperdiet ligula at purus feugiat vehicula. Pellentesque a commodo metus. Integer vitae purus erat. Vivamus scelerisque a justo at varius. Vestibulum placerat pulvinar massa eget facilisis. Quisque scelerisque, enim vel varius porta, libero ante ullamcorper quam, vel ultrices justo ex et nibh. Donec maximus, nibh in tempus consequat, augue risus molestie elit, non vestibulum odio dolor nec sapien. Nulla vulputate ante ac mi faucibus tristique. Quisque tincidunt diam in nunc porta malesuada ut eu sem. Nullam a leo a dui egestas rutrum. Praesent tincidunt sapien imperdiet tortor viverra, sed fringilla sapien egestas.
+                    
+                    Proin imperdiet est quis dictum dignissim. Cras dignissim odio justo. Suspendisse potenti. Integer tincidunt velit quis cursus blandit. Maecenas eget tempor turpis. Sed eu semper eros. In et auctor mauris, sit amet fringilla lorem. Nulla pretium, enim sit amet convallis faucibus, mi dolor viverra massa, ut scelerisque quam dui eget velit. In venenatis nec mauris quis finibus. Suspendisse rhoncus libero sit amet leo condimentum consequat. Morbi vestibulum pellentesque vulputate. Praesent bibendum lorem eu ex sollicitudin, sit amet tincidunt risus efficitur. Integer vel fermentum nunc. Morbi molestie elit nec libero lacinia venenatis. Aenean aliquet congue neque eget suscipit.
+                    
+                    Vivamus blandit vitae velit nec consequat. Sed porta libero purus, imperdiet feugiat mauris fringilla nec. Duis sollicitudin vehicula enim, in rhoncus nibh tincidunt quis. Morbi eget nibh lacus. Phasellus dictum porttitor erat ut efficitur. Duis sapien urna, ornare nec enim non, efficitur aliquam neque. Quisque semper aliquam pretium. Sed non felis ut nisi faucibus luctus eget nec tortor. In tristique, enim at fermentum varius, ipsum dui scelerisque mauris, vitae dapibus libero magna vitae ante. Vivamus rutrum felis sit amet nunc tincidunt, sed elementum erat eleifend. Suspendisse in volutpat leo. Duis non nunc in sem mattis tristique vel volutpat odio.
+                    
+                    Aenean interdum commodo mauris ac tincidunt. Etiam augue mi, vulputate in tortor nec, accumsan tempus metus. Curabitur sed ligula diam. Phasellus viverra mauris ac ante semper, at varius nisi congue. Aliquam scelerisque leo at nulla rhoncus, in convallis magna efficitur. Etiam et mauris pharetra risus fermentum placerat quis non orci. Nulla facilisi. Vestibulum nec lobortis tellus, nec condimentum dui. Suspendisse sapien tellus, condimentum pulvinar elementum consectetur, euismod vel quam.
+                    
+                    Donec sed risus eleifend, porttitor ipsum in, ultricies augue. Praesent vitae nisl id dolor fringilla vulputate. Donec pretium pulvinar enim et ullamcorper. Vivamus eu vehicula turpis, sodales molestie odio. Aliquam non egestas diam. Cras vitae pretium magna, vitae laoreet orci. Suspendisse ut tellus sed metus iaculis pharetra. Phasellus sit amet leo in lorem gravida tristique eget id lorem. Sed eleifend tortor sed neque pellentesque, vel feugiat nulla rhoncus. Vivamus malesuada, urna hendrerit porttitor ullamcorper, ipsum elit scelerisque sem, ut pulvinar ante orci et sem. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Sed sodales pellentesque leo. Nunc finibus eleifend justo, vel convallis odio. Vestibulum urna dui, tincidunt ut dolor ut, auctor bibendum ligula. Nullam pellentesque urna urna, at imperdiet leo blandit non. Suspendisse eu sollicitudin erat.
+                    
+                    Curabitur sagittis tempus elit ut fringilla. Quisque nec orci porttitor, pulvinar ante imperdiet, viverra ipsum. Aenean et nisi eu augue mattis pulvinar. Nunc ut urna neque. Nam eget quam a magna feugiat pharetra. Suspendisse potenti. Donec ut fermentum nibh. Phasellus nec sapien vel sem sagittis suscipit. Integer eget mi vehicula, facilisis metus vel, iaculis mi. In imperdiet justo quam, vel finibus neque rutrum in. Donec id viverra purus.
+                    
+                    Cras finibus quam malesuada est congue venenatis. Cras faucibus urna nibh, eget maximus libero porttitor luctus. Aenean vestibulum tellus quis mi condimentum egestas. Vivamus ullamcorper risus ac nibh rutrum consequat. Nunc ornare suscipit enim commodo consectetur. Sed eu euismod ipsum. Etiam cursus finibus felis in auctor. Donec lacus nulla, iaculis et leo vitae, aliquam feugiat quam. Nam commodo tortor volutpat lectus scelerisque pharetra. Suspendisse non magna ut odio mollis ornare a in velit. Aenean ultrices cursus laoreet. Nam id justo maximus erat varius bibendum.
+                    
+                    Mauris varius, tellus quis placerat porta, nibh mauris ultrices enim, et tristique leo risus commodo neque. Nulla felis sapien, hendrerit sit amet aliquam vel, rutrum ac sem. Vivamus nec massa vitae massa efficitur aliquam non eu lacus. Suspendisse congue blandit tincidunt. Nunc ut pretium lectus. Praesent ultricies in dui a tincidunt. Donec ut sapien at risus tincidunt venenatis vehicula pulvinar risus.
+                    
+                    Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Nunc ipsum arcu, tincidunt non mauris vitae, sagittis varius nisi. Integer sollicitudin tellus nunc, quis molestie arcu fringilla non. Nulla ultrices mauris sem, ut rutrum lectus vulputate vel. Nulla pharetra eleifend consequat. Vivamus mi leo, ultrices quis risus vel, faucibus aliquam erat. Phasellus nisl purus, ultrices nec urna id, ullamcorper feugiat nibh. Donec vel finibus leo, eget porttitor sapien. Nulla libero nibh, aliquet et erat eget, posuere dignissim libero. In mollis ultricies tincidunt. Fusce ullamcorper metus ut sem maximus facilisis. Fusce vel nisi cursus, imperdiet urna eu, accumsan massa. Duis semper vehicula magna, vel scelerisque leo dapibus at.</p>
+              </div> 
+
+
+
+
+        <div class="payment-container">
+            <h2 id="payment-heading">Monk Mode Movement<br class="break">HAND-BOOK</h2>
+            <div class="buynow-container">
+                <button class="back" onclick="buynow3()"><img id="back-arrow" alt="backk-arrow" src="./SVG/arrow-left.svg"></button>
+                <div class="buynow-content">
+                    <img class="box-img" alt="mmm-hand-book" src="./img/mmm-mock.png">
+                    <div class="second-payment-container">
+                    </div>
+                    <div class="box-container">          
+                        <div class="sale-container">        
+                        <p class="line-through">$60.00 USD</p>
+                        <span class="sale">Save 50%</span>
+                    </div>
+                    <p class="payment">$30.00 USD / one time payment</p>
+                    <div class="buttons">            
+                        <a class="button-text-1" href="buy.html"><button class="button-buynow">Buy Now --></button></a>
+                        <a class="button-text-2" target="_blank" href="https://dash.whop.com/passes?tabSlider=Pages"><button class="button-cart">Buy on WHOP</button></a> 
+                    </div>
+                    <!-- <p class="product-info">In modern society we are seeing the decline of health and happiness. Depression is becoming a more common reality. You need to escape this cycle. This starter pack will get you on the right path towards a successful future.<br class="break2">
+                        What is Included?<br>
+                    - Fun times<br>
+                    - Fun times<br>
+                    - Fun times<br> -->
+                </div>
+            </div>
+        </div>
+
+
+
+
+
+    <div class="payment-container">
+        <h2 id="payment-heading">MONK MODE MOVEMENT</h2>
+        <div class="about-info">           
+            <h4 class="about-info-heading">About Monk Mode Movement</h4>
+            <p class="about-info-text">
+                Monk Mode Movement is a course that shows you how to improve and change your life. it is laid out in a way that makes it easy for you to progress in your life and see real benifit day to day. The course has different parts, ranging from easy to harder. That way no matter what point you are at in your life you will be able to take something away from the course.
+            </p>
+        </div>
+        <img class="sexy-image" alt="mmm-hand-book" src="./img/mmm-mock.png">
+        <div class="second-payment-container">
+            <h2 class="second-payment-container-heading">MMM HAND-BOOK</h2>
+            <!-- <p class="line-through">$60.00 USD</p> -->
+            <div class="box-container">    
+                <span class="new">NEW</span>           
+                <span class="sale">Save 15%</span>
+            </div>
+            <p class="payment">$25.00 USD</p>
+            <a class="button-text-1" href="buy.html"><button class="button-buynow">Buy Now --></button></a>
+            <a class="button-text-2" target="_blank" href="https://dash.whop.com/passes?tabSlider=Pages"><button class="button-cart">PayPal</button></a> 
+            <p class="secure">- Secure Payment -</p>
+        </div>
+        <div class="icon-container">
+            <h3 class="included">What's Included:</h3>
+            <div class="icon-container-wrapper">
+                <div class="icon-row" style="gap: 4px; align-items: center;">
+                    <img class="fa-align-left" alt="icon" src="./SVG/format-align-left.svg">
+                    <a class="fa-align-left-text">Hand-book</a>
+                </div>
+                <div class="icon-row" style="gap: 4px; align-items: center;">
+                    <img class="fa-align-left" alt="icon" src="./SVG/apps.svg">
+                    <a class="fa-align-left-text">FREE Notion Template</a>
+                </div>
+                <div class="icon-row" style="gap: 4px; align-items: center;">
+                    <img class="fa-align-left" alt="icon" src="./SVG/view-boxes.svg">
+                    <a class="fa-align-left-text">MONK MODE MOVEMENT</a>
+                </div>
+                <div class="icon-row" style="gap: 4px; align-items: center;">
+                    <img class="fa-align-left" alt="icon" src="./SVG/video.svg">
+                    <a class="fa-align-left-text">Video Content</a>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+
+_____________________________________________________________
+
+<section className="main"> 
+    <div className="announcement-bar">
+        <p className="moving-text">WE ARE LAUNCHING IN 10 DAYS! <span className="spacing"></span> PRE-ORDER NOW TO SAVE 15% <span className="spacing"></span> DEAL ENDS ON THE 1ST OF MARCH.... <span className="spacing" style="width: 400px;"></span>DON'T MISS OUT ON THIS EXCLUSIVE DEAL!<span className="large-spacing"></span>NO TIME TO WASTE! <span className="large-spacing"></span>PRE ORDER RIGHT NOW</p></div>
+      <header>
+        <div className="container-menu"> 
+            <input type="checkbox" id="active"></input>
+            <label for="active" className="menu-btn" onclick="menuOpen"><span></span></label>
+            <label for="active" className="close"></label>
+        </div>
+        <nav>
+            <a href="index.html"><img src="./img/text-logo.png" classNameName="logo-text" alt="text-logo"></img></a>
+        </nav>
+        <div className="header-right">
+            <div className="navi-2">
+                <a className="far-text" href="vision.html">OUR VISION</a>
+                <a className="far-text">PRICING</a>
+                <a className="far-text">ABOUT</a>   
+                <a className="far-text">CONTACT</a>  
+            </div>
+        <a className="button-text"><button onclick="buynow2()" className="button-buy">Buy Now</button></a>
+        </div>
+        <div className="wrapper">
+            <ul>
+                <li><a href="buy.html">PRODUCTS</a></li>
+                <li><a href="/public/vision.html">OUR VISION</a></li>
+                <li><a href="#">CONTACT US</a></li>
+                <li><a href="#">FAQs</a></li>
+            </ul>
+        </div>
+    </header>
+    <div className="main-content">    
+        <div className="left-box">
+            <h1 id="mmm">Monk. Mode. Movement.</h1>
+            <div className="welcome-changer">
+                <h2 className="changing-text">Change your: &nbsp;</h2><div id="text-changer">ENVIRONMENT</div>
+            </div>
+            <div className="text-gradient">        
+                <h5>Its time for you to take your life into your own hands. No Excuses. You need to become the best version of yourself now. There is no time to waste.</h5>
+                <a className="button-text-1" href="information.html"><button className="button-started">Get Started</button></a>
+            </div>
+        </div>
+    </div>
+    <div className="side-menu">
+        <a href="index.html"><img className="side-menu-icons" alt="icon" src="./SVG/home.svg"></img></a>
+        <a href="index.html"><img className="side-menu-icons" alt="icon" src="./SVG/share.svg"></img></a>
+        <a href="index.html"><img className="side-menu-icons" alt="icon" src="./SVG/user.svg"></img></a>
+        <a href="index.html"><img className="side-menu-icons" alt="icon" src="./SVG/slider.svg"></img></a>
+        <a href="index.html"><img className="side-menu-icons" alt="icon" src="./SVG/help.svg"></img></a>
+    </div>
+      <div className="mock-up-course">
+        <h2 className="mock-header">MONK MODE MOVEMENT</h2>
+        <div className="hold">                
+            <h2 className="status">Status:&nbsp;&nbsp;</h2><h2 className="status-1">IMPROVING</h2></div>
+        <div className="mock-content">
+            <p className="mock-header-content-heading">What are you waiting for...?</p>
+        </div>
+        <div className="mock-list">
+            <a className="mock-list-headings">ENVIRONMENT</a>
+            <a className="mock-list-headings">NURTITION</a>
+            <a className="mock-list-headings">SLEEP</a>
+            <a className="mock-list-headings">MENTAL HEALTH</a>
+            <a className="mock-list-headings">MIND</a>
+        </div>
+        <div className="mock-content-1"> 
+            <a className="completion">CONTENT TO LEARN</a>    
+            <hr className="line-2"></hr>         
+        </div>
+        <div className="mock-content-1"> 
+            <a className="completion">COURSE COMPLETION</a>    
+            <hr className="line-2"></hr>
+            <div className="animated-progress progress-blue">
+                <span data-progress="85"></span>
+              </div>                 
+        </div>
+        <div className="mock-content-2">                
+            <p className="mock-text">What you will get from this course:
+                <p className="mock-text-listing"> - Nice shit and other stuff</p>
+                <p className="mock-text-listing"> - lots of cool thingys</p>
+                <p className="mock-text-listing"> - would buy it ngl</p>
+                <p className="mock-text-listing"> - good course for improvment</p>
+                <p className="mock-text-listing"> - always good to improve</p>
+            </p>
+        </div>
+    </div>
+<footer>
+<div className="social">
+    <a className="navi-extra" href="https://instagram.com">INSTAGRAM</a>
+    <a className="navi-extra">•</a>
+    <a className="navi-extra" href="https://Facebook.com">FACEBOOK</a>
+    <a className="navi-extra">•</a>
+    <a className="navi-extra" href="https://twitter.com">TWITTER</a></div>
+<div className="tos">
+    <a className="navi-extra" href="">Privacy Policy</a>
+    <a className="navi-extra" href="">//</a>
+    <a className="navi-extra" href="">Terms Of Service</a>
+</div>
+</footer>
+</section>
+
+
+
+
+
+
+
+
+
+
+
+----------------------------------------------------------------------------------
+
+
+<div class="icon-container">
+    <h3 class="included">What's Included:</h3>
+    <div class="icon-container-wrapper">
+        <div class="icon-row" style={{ gap: "4px", alignItems: "center" }}>
+            <img class="fa-align-left" alt="icon" src="./SVG/format-align-left.svg"></img>
+            <a class="fa-align-left-text">Hand-book</a>
+        </div>
+        <div class="icon-row" style={{ gap: "4px", alignItems: "center" }}>
+            <img class="fa-align-left" alt="icon" src="./SVG/apps.svg"></img>
+            <a class="fa-align-left-text">FREE Notion Template</a>
+        </div>
+        <div class="icon-row" style={{ gap: "4px", alignItems: "center" }}>
+            <img class="fa-align-left" alt="icon" src="./SVG/view-boxes.svg"></img>
+            <a class="fa-align-left-text">MONK MODE MOVEMENT</a>
+        </div>
+        <div class="icon-row" style={{ gap: "4px", alignItems: "center" }}>
+            <img class="fa-align-left" alt="icon" src="./SVG/video.svg"></img>
+            <a class="fa-align-left-text">Video Content</a>
+        </div>
+    </div>
+</div>
+
+<div class="second-payment-container">
+    <h2 class="second-payment-container-heading">MMM HAND-BOOK</h2>
+    <div class="box-container">    
+        <span class="new">NEW</span>           
+        <span class="sale">Save 15%</span>
+    </div>
+    <p class="payment">$25.00 USD</p>
+    <a class="button-text-1" href="buy.html"><button class="button-buynow">Buy Now</button></a>
+    <a class="button-text-2" target="_blank" href="https://dash.whop.com/passes?tabSlider=Pages"><button class="button-cart">PayPal</button></a> 
+    <p class="secure">- Secure Payment -</p>
+</div>
+
+
+
+<div class="about-info">           
+    <h4 class="about-info-heading">About Monk Mode Movement</h4>
+    <p class="about-info-text">
+        Monk Mode Movement is a course that shows you how to improve and change your life. it is laid out in a way that makes it easy for you to progress in your life and see real benifit day to day. The course has different parts, ranging from easy to harder. That way no matter what point you are at in your life you will be able to take something away from the course.
+    </p>
+</div>
