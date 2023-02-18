@@ -8,21 +8,21 @@ function NavBar() {
 
   return (
     <header>
-      <div className="container-menu"> 
+      {/* <div className="container-menu"> 
         <input type="checkbox" id="active"></input>
         <label htmlFor="active" className="menu-btn" onClick="menuOpen"><span></span></label>
         <label htmlFor="active" className="close"></label>
-      </div>
+      </div> */}
       <nav>
         <Link to="/"><img src={logo} className="logo-text" alt="text-logo"></img></Link>
       </nav>
-      <div className="header-right">
-        <div className="navi-2">
-          <Link className="far-text" to="/vision">OUR VISION</Link>
-          <a className="far-text">PRICING</a>
-          <a className="far-text">ABOUT</a>   
-          <a className="far-text">CONTACT</a>  
+      <div className="navi-2">
+          <Link className="far-text" to="/vision"> • OUR VISION •</Link>
+          <a className="far-text"> • PRICING •</a>
+          <a className="far-text"> • ABOUT •</a>   
+          <a className="far-text"> • CONTACT •</a>  
         </div>
+      <div className="header-right">
         <a className="button-text"><button onClick="buynow2()" className="button-buy">Buy Now</button></a>
       </div>
       <div className="wrapper">

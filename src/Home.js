@@ -9,7 +9,8 @@ function Home(){
 <section className="main"> 
     <div className="announcement-bar">
     <NavBar />
-        <p className="moving-text">WE ARE LAUNCHING ON THE 15TH OF MARCH! <span className="spacing"></span> PRE-ORDER NOW TO SAVE 15% <span className="spacing"></span> DEAL ENDS ON THE 10TH OF MARCH.... <span className="spacing" style={{width: '400px'}}></span>DON'T MISS OUT ON THIS EXCLUSIVE DEAL!<span className="large-spacing"></span>NO TIME TO WASTE! <span className="large-spacing"></span>PRE ORDER RIGHT NOW</p></div>
+        <p className="moving-text">WE ARE LAUNCHING ON THE 15TH OF MARCH! <span className="spacing"></span> PRE-ORDER NOW TO SAVE 15% <span className="spacing">
+            </span> DEAL ENDS ON THE 10TH OF MARCH....<span className="spacing" style={{width: '400px'}}></span>GET A FREE NOTION TEMPLATE BY CLICKING THE 'CLICK HERE'<span className="large-spacing"></span>NO TIME TO WASTE! <span className="large-spacing"></span>PRE ORDER RIGHT NOW</p></div>
     <div className="main-content">    
         <div className="left-box">
             <h1 id="mmm">Monk. Mode. Movement.</h1>
@@ -64,6 +65,12 @@ function Home(){
                 <p className="mock-text-listing"> - always good to improve</p>
             </p>
         </div>
+    </div>
+    <div class="ball-container">
+        <div class="ball ball-1"></div>
+        <div class="ball ball-2"></div>
+        <div class="ball ball-3"></div>
+        <div class="ball ball-4"></div>
     </div>
     <Footer />
 </section>
