@@ -22,7 +22,7 @@ function Buy(){
             <Link to="/"><img src={logo} className="logo-text" alt="text-logo"></img></Link>
             </nav>
             </header>       
-    <section className="second-main">
+    <section className="buy-main">
         <img className="banner" alt="mmm-hand-book" src={Banner}></img>
         <div className="payment-container">
             <div className="redirect-container">

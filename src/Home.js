@@ -7,11 +7,12 @@ import ScrollBar from "./ScrollBar"
 
 function Home() {
 return(
+    <>
 <section className="main"> 
     <div className="announcement-bar">
-    <NavBar />
         <p className="moving-text">WE ARE LAUNCHING ON THE 15TH OF MARCH! <span className="spacing"></span> PRE-ORDER NOW TO SAVE 15% <span className="spacing">
-            </span> DEAL ENDS ON THE 10TH OF MARCH....<span className="spacing" style={{width: '400px'}}></span>GET A FREE NOTION TEMPLATE BY CLICKING THE 'CLICK HERE'<span className="large-spacing"></span>NO TIME TO WASTE! <span className="large-spacing"></span>PRE ORDER RIGHT NOW</p></div>
+            </span> DEAL ENDS ON THE 10TH OF MARCH....<span className="spacing" style={{width: '400px'}}></span>GET A FREE NOTION TEMPLATE! <span className="spacing"></span> CLICK THE 'CLICK HERE'<span className="spacing"></span>NO TIME TO WASTE! <span className="spacing"></span>PRE ORDER RIGHT NOW</p></div>
+    <NavBar />
     <ScrollBar />
     <div className="main-content">    
         <div className="left-box">
@@ -75,9 +76,12 @@ return(
         <div class="ball ball-4"></div>
         <div class="ball ball-5"></div>
     </div>
-    <h3 class="scroll-explore">scroll to explore!</h3>
     <Footer />
 </section>
+<section className="second-main">
+    <h2 className="coming-soon">Coming soon...</h2>
+</section>
+</>
     )
 }
 

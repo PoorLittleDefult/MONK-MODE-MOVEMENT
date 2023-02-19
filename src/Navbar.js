@@ -17,10 +17,10 @@ function NavBar() {
         <Link to="/"><img src={logo} className="logo-text" alt="text-logo"></img></Link>
       </nav>
       <div className="navi-2">
-          <Link className="far-text" to="/vision"> • OUR VISION •</Link>
+          <a className="far-text"> • OUR VISION •</a>
           <a className="far-text"> • PRICING •</a>
           <a className="far-text"> • ABOUT •</a>   
-          <a className="far-text"> • CONTACT •</a>  
+          <Link className="far-text" to="/Buy"> • CONTACT •</Link>  
         </div>
       <div className="header-right">
         <a className="button-text"><button onClick="buynow2()" className="button-buy">Buy Now -></button></a>
