@@ -119,6 +119,7 @@ body::-webkit-scrollbar {
   transform: translate(-50%, -50%);
   width: 100%;
   height: 100%;
+  z-index: -1;
 }
 
 .ball {
@@ -325,24 +326,15 @@ header {
   }
 }
 
-@media screen and (max-width: 768px) {
-  header {
-      top: 3%;
-      left: -0%;
-  }
-}
-
 @media screen and (max-width:2100px) {
   header {
       zoom: 70%;
   }
 }
 
-
-
 nav {
   position: absolute;
-  left: 5%;
+  left: 6%;
   transform: translateX(-50%);
   justify-content: space-between;
   display: inline-block;
@@ -351,8 +343,21 @@ nav {
   height: auto;
 }
 
+@media screen and (max-width:2100px) {
+  nav {
+    left: 10%;
+  }
+}
+
+
+@media screen and (max-width: 768px) {
+  nav {
+    left: 20%;
+  }
+}
+
 .logo-text {
-  width: 7vw;
+  width: 8vw;
   height: auto;
 }
 
@@ -362,13 +367,24 @@ nav {
 
 @media screen and (max-width:2100px) {
   .logo-text {
-      zoom: 150%;
+    width: 15vw;
+  }
+}
+
+@media screen and (max-width:1400px) {
+  .logo-text {
+    width: 15vw;
+  }
+}
+
+@media screen and (max-width:768px) {
+  .logo-text {
+    width: 30vw;
   }
 }
 
 
-
-@media screen and (max-width: 430px) {
+@media screen and (max-width: 500px) {
   .logo-text {
     width: 70vw;
   }
@@ -411,7 +427,7 @@ nav {
 
 .header-right {
   position: absolute;
-  right: 0%;
+  right: -2%;
   transform: translateX(-50%);
   justify-content: space-between;
   display: inline-block;
@@ -476,40 +492,21 @@ nav {
   font-size: 40px;
 }
 
-@media screen and (max-width: 700px) {
-  .button-started {
-      width: 80vw;
-      height: 80px;
-      left: 50%;
-      transform: translate(50%, -50%);
-  }
-}
-
-@media screen and (max-width: 425px) {
-  .button-started {
-      height: 60px;
-      font-size: 18px;
-      zoom: 250%;
-      margin-top: -200px;
-      box-shadow: 6px 6px rgb(68, 68, 68);
-  }
-}
-
-
-@media screen and (max-width: 320px) {
-  .button-started {
-      margin-top: -400px;
-  }
-}
-
-
 @media screen and (max-width: 1400px) {
   .button-started {
-      width: 40vw;
-      position: absolute;
-      left: 50%;
-      top: 470%;
-      transform: translate(-50%, -50%);
+      width: 50vw;
+
+  }
+}
+
+
+@media screen and (max-width: 400px) {
+  .button-started {
+    position: absolute;
+    top: 150%;
+    width: 70vw;
+    left: 50%;
+    transform: translate(-50%, -50%);
   }
 }
 
@@ -593,7 +590,6 @@ nav {
   font-weight: 400;
   transition: 0.5s;
   border-color: transparent;
-  /* box-shadow: 4px 4px rgb(68, 68, 68); */
   cursor: pointer;
 }
 
@@ -601,7 +597,7 @@ nav {
   background-color: rgb(85, 47, 255);
 }
 
-@media screen and (max-width: 610px) {
+@media screen and (max-width: 500px) {
   .button-buy {
       display: none;
   }
@@ -1158,6 +1154,7 @@ nav {
 .left-box {
   position: absolute;
   left: 0;
+  z-index: 9999;
   transition: 0.5s ease-in-out;
 }
 
@@ -1176,33 +1173,33 @@ nav {
   }
 }
 
-@media screen and (max-width:1600px) {
-  .left-box {
-      left: 0;
-      zoom: 60%;
-  }
-}
-
 
 #mmm {
   font-size: 2vw;
   color: rgb(255, 255, 255);
-  /* text-shadow: 0px 0px 4px #fff, 0px 0px 10px rgb(0, 102, 255); */
-}
-
-@media screen and (max-width: 500px) {
-  #mmm {
-      font-size: 20vw;
-      line-height: 100px;
-  }
 }
 
 @media screen and (max-width: 1400px) {
   #mmm {
-      font-size: 10vw;
-      line-height: 130px;
+      font-size: 8vw;
+      line-height: 100%;
   }
 }
+
+@media screen and (max-width: 500px) {
+  #mmm {
+      font-size: 10vw;
+      line-height: 120%;
+  }
+}
+
+@media screen and (max-width: 400px) {
+  #mmm {
+    font-size: 12vw;
+    line-height: 300%;
+  }
+}
+
 
 
 h3 {
@@ -1229,13 +1226,11 @@ h5 {
 @media screen and (max-width: 1400px) {
   h5 {
     font-size: 5vw;
-    line-height: 60px;
+    line-height: 100%;
   }
 }
 
-
-
-@media screen and (max-width: 800px) {
+@media screen and (max-width: 400px) {
   h5 {
       display: none;
   }
@@ -1247,15 +1242,16 @@ h5 {
   height: auto;
 }
 
-@media screen and (max-width: 500px) {
+@media screen and (max-width: 600px) {
   .text-gradient {
       font-size: 200%;
+      margin-top: 0px;
   }
 }
 
 @media screen and (max-width: 1400px) {
   .text-gradient {
-    width: 90vw;
+    width: 70vw;
   }
 }
 
@@ -2366,7 +2362,7 @@ hr {
   margin-top: -10px;
 }
 
-@media screen and (max-width: 425px) {
+@media screen and (max-width: 1400px) {
   .welcome-changer {
       display: none;
   }
