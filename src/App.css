@@ -12,12 +12,6 @@
   --shadow: #43a047;
   --scrollbarBG: #eee;
   --thumbBG: #66bb6a;
-  /* background-color: #fcfcfc; */
-  /* font-synthesis: none; */
-  /* text-rendering: optimizeLegibility;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-  -webkit-text-size-adjust: 100%; */
 }
 
 @font-face {
@@ -319,6 +313,12 @@ header {
   top: 4%;
 }
 
+@media screen and (max-height: 1080px) {
+  header {
+      top: 6%;
+  }
+}
+
 @media screen and (max-width: 430px) {
   header {
       top: 5%;
@@ -473,11 +473,11 @@ nav {
 .button-started {
   position: absolute;
   width: 20vw;
-  height: 100px;
+  height: 10vh;
   color: #ffffff;
   font-family: Inter, Avenir, Helvetica, Arial, sans-serif;
   font-weight: bold;
-  font-size: 30px;
+  font-size: 1.4vw;
   background-color: rgb(47, 130, 255);
   border-color: transparent;
   border-radius: 15px;
@@ -972,6 +972,8 @@ nav {
 .billing-container{
   width: 100%;
   height: 70%;
+  overflow-y: auto;
+  overflow-x: hidden;
   box-shadow: 0px 0px 20px 5px rgba(0, 0, 0, 0.3);
   background-color: white;
   position: absolute;
@@ -1219,13 +1221,14 @@ h5 {
 
 @media screen and (max-width: 2000px) {
   h5 {
-      font-size: 25px;
+      font-size: 1.3vw;
+      line-height: 30px;
   }
 }
 
 @media screen and (max-width: 1400px) {
   h5 {
-    font-size: 5vw;
+    font-size: 3vw;
     line-height: 100%;
   }
 }
@@ -1241,6 +1244,13 @@ h5 {
   width: 25vw;
   height: auto;
 }
+
+@media screen and (max-width: 2000px) {
+  .text-gradient {
+    margin-top: -40px;
+  }
+}
+
 
 @media screen and (max-width: 600px) {
   .text-gradient {
@@ -2187,7 +2197,7 @@ hr {
   left: 50%;
   transform: translate(-50%, -50%);
   width: 90%;
-  height: 150px;
+  height: 20% ;
   border-radius: 5px;
   background-color: rgba(0, 204, 255, 0.123);
   border-style: solid;
@@ -2203,7 +2213,7 @@ hr {
   margin: 25px;
   transform: translate(-50%, -50%);
   width: 40%;
-  height: 150px;
+  height: 20%;
   border-radius: 5px;
   background-color: rgba(0, 204, 255, 0.123);
   border-style: solid;
@@ -2218,7 +2228,7 @@ hr {
   left: 70%;
   transform: translate(-50%, -50%);
   width: 40%;
-  height: 25vh;
+  height: 50%;
   border-radius: 10px;
   background-color: rgba(0, 36, 46, 0.199);
   border-style: solid;
@@ -2336,22 +2346,19 @@ hr {
   font-weight: 900 !important;
 }
 
+@media screen and (max-width: 2000px) {
+  #text-changer {
+    font-size: 0.1vw;
+  }
+}
+
+
 @media screen and (max-width: 425px) {
   #text-changer {
       display: none;
   }
 }
 
-
-@media screen and (max-width: 1400px) {
-  #text-changer {
-      position: absolute;
-      font-size: 100%;
-      left: 50%;
-      top: 380%;
-      transform: translate(-50%, -50%);
-  }
-}
 
 .welcome-changer {
   display: flex;
@@ -2360,6 +2367,13 @@ hr {
   width: 30vw;
   height: auto;
   margin-top: -10px;
+}
+
+@media screen and (max-width: 2000px) {
+  .welcome-changer {
+      zoom: 90%;
+      margin-top: -20px;
+  }
 }
 
 @media screen and (max-width: 1400px) {
