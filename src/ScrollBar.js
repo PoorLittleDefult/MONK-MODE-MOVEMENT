@@ -20,11 +20,6 @@ function ScrollBar() {
       <div className="progress-container">
         <div className="progress-bar" style={{ width: `${isScrolled ? 100 : 0}%` }}></div>
       </div>
-      <style>{`
-        header {
-          background-color: ${isScrolled ? '#eee' : 'transparent'};
-        }
-      `}</style>
     </>
   );
 }

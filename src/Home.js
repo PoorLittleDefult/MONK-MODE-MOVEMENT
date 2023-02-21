@@ -1,4 +1,5 @@
 import React, { useState, useEffect } from "react";
+import mock from './mock.svg'
 import TextChanger from './TextChanger';
 import { Link } from "react-router-dom";
 import NavBar from './NavBar';
@@ -14,6 +15,7 @@ return(
             </span> DEAL ENDS ON THE 10TH OF MARCH....<span className="spacing" style={{width: '400px'}}></span>GET A FREE NOTION TEMPLATE! <span className="spacing"></span> CLICK THE 'CLICK HERE'<span className="spacing"></span>NO TIME TO WASTE! <span className="spacing"></span>PRE ORDER RIGHT NOW</p></div>
     <NavBar />
     <ScrollBar />
+    <img src={mock} className="mock" alt="mock"></img>
     <div className="main-content">    
         <div className="left-box">
             <h1 id="mmm">Monk. Mode. Movement.</h1>
@@ -33,7 +35,7 @@ return(
         <a href="index.html"><img className="side-menu-icons" alt="icon" src="./SVG/slider.svg"></img></a>
         <a href="index.html"><img className="side-menu-icons" alt="icon" src="./SVG/help.svg"></img></a>
     </div>
-      <div className="mock-up-course">
+      {/* <div className="mock-up-course">
         <h2 className="mock-header">MONK MODE MOVEMENT</h2>
         <div className="hold">                
             <h2 className="status">Status:&nbsp;&nbsp;</h2><h2 className="status-1">IMPROVING</h2></div>
@@ -67,7 +69,7 @@ return(
                 <p className="mock-text-listing"> - always good to improve</p>
             </p>
         </div>
-    </div>
+    </div> */}
     </div>
     <div class="ball-container">
         <div class="ball ball-1"></div>
