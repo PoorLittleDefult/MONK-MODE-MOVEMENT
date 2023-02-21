@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from "react";
 import TextChanger from './TextChanger';
 import { Link } from "react-router-dom";
-import NavBar from './Navbar';
+import NavBar from './NavBar';
 import Footer from "./Footer";
 import ScrollBar from "./ScrollBar"
 

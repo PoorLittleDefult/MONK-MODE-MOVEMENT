@@ -1,11 +1,9 @@
 import React from "react";
 import { Link, useLocation } from "react-router-dom";
-import ScrollBar from "./ScrollBar";
 
 function Footer() {
   return (
     <footer>
-      <ScrollBar />
       <h3 className="scroll-explore" style={{ opacity: 1 }}>
         scroll to explore!
       </h3>
