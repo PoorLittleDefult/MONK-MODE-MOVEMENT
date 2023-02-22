@@ -755,6 +755,22 @@ nav {
   top: 11vh;
 }
 
+@media screen and (max-width: 768px){
+  .line-through {
+    font-size: 2vw;
+    margin-left: 40%;
+    top: 11vh;
+  }
+}
+
+@media screen and (max-width: 425px){
+  .line-through {
+    font-size: 2.5vw;
+    margin-left: 0;
+    top: 14vh;
+  }
+}
+
 .sale {
   display: inline-block;
   border: 1px solid transparent;
@@ -789,10 +805,24 @@ nav {
   background-color: rgb(0, 204, 255);
 }
 
+@media screen and (max-width: 768px){
+  .new {
+    margin-left: 66%;
+    top: 18.5%;
+  }
+}
+
 @media screen and (max-width: 1920px) {
   .new {
   zoom: 60%;
   top: 20%;
+  }
+}
+
+@media screen and (max-width: 426px) {
+  .new {
+    zoom: 30%;
+    top: 18.5%;
   }
 }
 
@@ -1168,7 +1198,7 @@ nav {
 .secure{
   font-size: 10px;
   position: absolute;
-  top: 102%;
+  top: 0%;
   left: 50%;
   color: #000000;
   transform: translate(-50%, -50%);
@@ -1222,7 +1252,14 @@ nav {
 
 @media screen and (max-width: 1920px) {
   #payment-heading{
-    font-size: 2vw;
+    font-size: 1.8vw;
+  }
+}
+
+
+@media screen and (max-width: 426px) {
+  #payment-heading{
+    font-size: 4vw;
   }
 }
 
@@ -1245,6 +1282,17 @@ nav {
   color: #000;
 }
 
+@media screen and (max-width: 768px){
+  .home-redirect{
+    font-size: 2vw;
+  }
+}
+
+@media screen and (max-width: 426px){
+  .home-redirect{
+    font-size: 3vw;
+  }
+}
 
 .left-box {
   position: absolute;
@@ -1391,11 +1439,28 @@ p {
   color: black;
 }
 
+
 @media screen and (max-width: 768px){
-  .payment {
-    font-size: 5vw;
+  .payment{
+    font-size: 2vw;
   }
-  
+}
+
+@media screen and (max-width: 768px){
+  .payment{
+    font-size: 3vw;
+  }
+}
+
+.template-container{
+  position:relative;
+  top: 2%;
+}
+
+@media screen and (max-width: 768px){
+  .template-container{
+    top: -30%;
+  }
 }
 
 
@@ -2708,14 +2773,6 @@ hr {
   position: absolute;
 }
 
-input[type="submit"] {
-  display: block;
-  padding: 6px 30px;
-  font-size: 14px;
-  background-color: #4460AA;
-  color: #fff;
-  border: none
-}
 
 
 /* <---------------------------- form-container ----------------------------> */
@@ -2724,9 +2781,12 @@ input[type="submit"] {
 input[type=text], select, textarea {
   width: 100%;
   padding: 20px;
-  border: 1px solid #ccc;
+  color: black;
+  font-size:20px;
+  border: 1px solid #2b2b2b;
   border-radius: 4px;
   box-sizing: border-box;
+  background-color: rgb(224, 224, 224);
   margin-top: 6px;
   margin-bottom: 16px;
   resize: vertical;
@@ -2735,7 +2795,10 @@ input[type=text], select, textarea {
 input[type=email], select, textarea {
   width: 100%;
   padding: 20px;
-  border: 1px solid #ccc;
+  color: black;
+  font-size:20px;
+  background-color: rgb(224, 224, 224);
+  border: 1px solid #2b2b2b;
   border-radius: 4px;
   box-sizing: border-box;
   margin-top: 6px;
@@ -2746,7 +2809,10 @@ input[type=email], select, textarea {
 input[type=tel], select, textarea {
   width: 100%;
   padding: 20px;
-  border: 1px solid #ccc;
+  color: black;
+  font-size:20px;
+  background-color: rgb(224, 224, 224);
+  border: 1px solid #2b2b2b;
   border-radius: 4px;
   box-sizing: border-box;
   margin-top: 6px;
@@ -2756,7 +2822,7 @@ input[type=tel], select, textarea {
 
 
 input[type=submit] {
-  background-color: #04AA6D;
+  background-color: #0011ff7d;
   color: white;
   width: 100%;
   padding: 12px 20px;
@@ -2766,7 +2832,12 @@ input[type=submit] {
 }
 
 input[type=submit]:hover {
-  background-color: #45a049;
+  background-color: #4c00ff7d;
+}
+
+label{
+  color: black;
+  font-size: 30px;
 }
 
 .form-container {
@@ -2793,10 +2864,15 @@ input[type=submit]:hover {
   }
 }
 
-
-@media screen and (max-width: 1900px) {
+@media screen and (max-width: 2090px) {
   .form-container{
-    zoom: 60%;
+    zoom: 50%;
+  }
+}
+
+@media screen and (max-width: 1980px) {
+  .form-container{
+    zoom: 50%;
   }
 }
 
@@ -2808,7 +2884,7 @@ input[type=submit]:hover {
 
 @media screen and (max-width: 1600px) {
   .form-container{
-    zoom: 50%;
+    zoom: 40%;
   }
 }
 
@@ -2818,21 +2894,15 @@ input[type=submit]:hover {
   }
 }
 
-@media screen and (max-width: 1200px) {
+@media screen and (max-width: 1024px) {
   .form-container{
     zoom: 30%;
   }
 }
 
-@media screen and (max-width: 1200px) {
-  .form-container{
-    zoom: 1;
-  }
-}
-
-
 @media screen and (max-width: 660px) {
   .form-container{
     width: 150%;
+    top: 65%;
   }
 }

@@ -63,7 +63,7 @@ export const ContactUs = () => {
 
             <label for="lname">Country</label>
             <input className="input" name="email" placeholder="Your country..." id="country" type="text" required></input>
-            <input type="submit" value="Submit"></input>
+            <input type="submit" id="send" value="Send Email" ></input>
         </form>
     </div>
   );
