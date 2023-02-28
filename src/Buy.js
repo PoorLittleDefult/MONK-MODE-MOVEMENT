@@ -15,12 +15,12 @@ function Buy(){
                 <Link className="home-redirect" to="/">Home > </Link><a className="home-redirect"> Buy</a>
             </div>
                 <h2 id="payment-heading">Notion Template *FREE* </h2>
-                <div className="line"></div>
                 <p className="payment">$0.00 Totally FREE!</p> 
                 <p className="line-through">$20.00 USD</p> 
-                <span className="new">NEW</span> 
                 <p className="secure">- Secure Processing -</p>
              </div>
+             <div className="line"></div>               
+              <span className="new">NEW</span> 
             <ContactUs />
         </div>
     </section>
