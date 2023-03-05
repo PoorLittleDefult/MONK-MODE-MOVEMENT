@@ -20,23 +20,8 @@ function Home(){
         <h1 className="main-heading">MONK. MODE. MOVEMENT.</h1>
         <div className="h5-container">
         <h5>Its time for you to take your life into your own hands. No Excuses. You need to become the best version of yourself now. There is no time to waste.</h5></div>
-        <a className="button-text-1" href="https://whop.com/"><button className="button-started">CLICK HERE!</button></a>
+        <a className="button-text-1" target="_blank" href="https://whop.com/"><button className="button-started">CLICK HERE!</button></a>
         </div>
-        {/* <nav role="navigation">
-            <div id="menuToggle">
-                <input type="checkbox" />
-                <span></span>
-                <span></span>
-                <span></span>
-                <ul id="menu">
-                <a href="#"><li>Home</li></a>
-                <a href="#"><li>About</li></a>
-                <a href="#"><li>Info</li></a>
-                <a href="#"><li>Contact</li></a>
-                <a href="https://erikterwan.com/" target="_blank"><li>Show me more</li></a>
-                </ul>
-            </div>
-            </nav> */}
         </div>
         <div className="main-mid"></div>
         <div className="main-bottom">

@@ -6,6 +6,7 @@ function NavBar({ isScrolled }) {
   const location = useLocation();
   const isBuyPage = location.pathname === "/buy";
   return (
+    <>
     <header className={isScrolled ? "scrolled" : ""}>
       <nav>
         <Link to="/">
@@ -29,6 +30,20 @@ function NavBar({ isScrolled }) {
         </a>
       </div>
     </header>
+    <div id="menuToggle">
+        <input type="checkbox" />
+        <span></span>
+        <span></span>
+        <span></span>
+        <ul id="menu">
+        <a href="#"><li>Home</li></a>
+        <a href="#"><li>About</li></a>
+        <a href="#"><li>Info</li></a>
+        <a href="#"><li>Contact</li></a>
+        <a href="https://erikterwan.com/" target="_blank"><li>Show me more</li></a>
+        </ul>
+    </div>
+    </>
   );
 }
 
