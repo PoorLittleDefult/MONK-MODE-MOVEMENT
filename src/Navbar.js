@@ -13,12 +13,12 @@ function NavBar({ isScrolled }) {
         </Link>
       </nav>
       <div className="navi-2">
-        <a className="far-text"> • OUR VISION •</a>
-        <a className="far-text"> • PRICING •</a>
-        <a className="far-text"> • ABOUT •</a>
+        <a className="far-text">  OUR VISION </a>
+        <a className="far-text"> PRICING </a>
+        <a className="far-text"> ABOUT </a>
         <Link className="far-text" to="/Buy">
           {" "}
-          • CONTACT •
+          CONTACT 
         </Link>
       </div>
       <div className="header-right">
@@ -27,22 +27,6 @@ function NavBar({ isScrolled }) {
             Buy Now ->
           </button>
         </a>
-      </div>
-      <div className="wrapper">
-        <ul>
-          <li>
-            <a href="buy.html">PRODUCTS</a>
-          </li>
-          <li>
-            <a href="/public/vision.html">OUR VISION</a>
-          </li>
-          <li>
-            <a href="#">CONTACT US</a>
-          </li>
-          <li>
-            <a href="#">FAQs</a>
-          </li>
-        </ul>
       </div>
     </header>
   );

@@ -1,37 +1,50 @@
 import React from "react";
 import background from "./background.svg"
+import mockbook from "./mockbook.png"
+import logo from "./text-logo.png"
 import TextChanger from './TextChanger';
 import { Link } from "react-router-dom";
 import NavBar from './NavBar';
 import Footer from "./Footer";
 import ContactUs from "./ContactUs";
+import MobileMenu from "./MobileMenu";
 
 
 
 function Home(){
     return(
     <>
-     {/* <div style={{ backgroundImage:`url(${background})` }} className="main-left" src={background} alt="background">  */}
-        <div className="main-left" src={background} alt="background">
-        {/* <NavBar /> */}
-        <label for="check" class="menuButton">
-            <input id="check" type="checkbox"></input>
-            <span className="top"></span>
-            <span class="mid"></span>
-            <span className="bot"></span>
-        </label>
+        <div className="main">
+        <NavBar />
         <div className="main-content">
-        <h1 className="main-heading">Monk. Mode. Movement.</h1>
-        <h5>Its time for you to take your life into your own hands. No Excuses. You need to become the best version of yourself now. There is no time to waste.</h5>
-        <Link className="button-text-1" to="HT"><button className="button-started">CLICK HERE!</button></Link>
+        <h1 className="main-heading">MONK. MODE. MOVEMENT.</h1>
+        <div className="h5-container">
+        <h5>Its time for you to take your life into your own hands. No Excuses. You need to become the best version of yourself now. There is no time to waste.</h5></div>
+        <a className="button-text-1" href="https://whop.com/"><button className="button-started">CLICK HERE!</button></a>
         </div>
+        {/* <nav role="navigation">
+            <div id="menuToggle">
+                <input type="checkbox" />
+                <span></span>
+                <span></span>
+                <span></span>
+                <ul id="menu">
+                <a href="#"><li>Home</li></a>
+                <a href="#"><li>About</li></a>
+                <a href="#"><li>Info</li></a>
+                <a href="#"><li>Contact</li></a>
+                <a href="https://erikterwan.com/" target="_blank"><li>Show me more</li></a>
+                </ul>
+            </div>
+            </nav> */}
         </div>
-        <div className="main-right">
-            <h2 className="template-header">Get this FREE template now!</h2>
+        <div className="main-mid"></div>
+        <div className="main-bottom">
+            <h2 className="template-header">Get our FREE Notion template now!</h2>
             <h3 className="template-sub-header">Fill out the form below</h3>
             <h4 className="template-sub-header-1">THE TIME IS NOW...</h4>
-        <ContactUs />
-        {/* <p className="right">Terms of Service // Privacy Policy</p> */}
+        <h4 className="right">Lifestyle | Mindset | Health</h4>
+                <ContactUs />
         </div>
     </>
     )
