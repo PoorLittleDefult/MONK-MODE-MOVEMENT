@@ -1,48 +1,60 @@
-import React from "react";
-import logo from "./text-logo.png";
+import React, { useState, useEffect } from "react";
+import logo from "./Monk -01.jpg";
+import textlogo from "./text-logo.png";
 import { Link, useLocation } from "react-router-dom";
+import ContactUs from "./ContactUs";
 
-function NavBar({ isScrolled }) {
-  const location = useLocation();
-  const isBuyPage = location.pathname === "/buy";
+function NavBar() {
+  if (document.body.scrollTop > 100 || document.documentElement.scrollTop > 100) {
+    document.getElementById("far-text").style.color = "black";
+  }
+
   return (
     <>
-    <header className={isScrolled ? "scrolled" : ""}>
-      <nav>
-        <Link to="/">
-          <img src={logo} className="logo-text" alt="text-logo"></img>
-        </Link>
-      </nav>
-      <div className="navi-2">
-        <a className="far-text">  OUR VISION </a>
-        <a className="far-text"> PRICING </a>
-        <a className="far-text"> ABOUT </a>
-        <Link className="far-text" to="/Buy">
-          {" "}
-          CONTACT 
-        </Link>
-      </div>
-      <div className="header-right">
-        <a className="button-text">
-          <button onClick="buynow2()" className="button-buy">
-            Buy Now ->
-          </button>
-        </a>
-      </div>
-    </header>
-    <div id="menuToggle">
+      <header>
+        <nav>
+          <div className="logo-container">
+            <Link to="/">
+              <img src={textlogo} className="logo-text" alt="text-logo"></img>
+              <img src={logo} className="logo" alt="logo"></img>
+            </Link>
+          </div>
+        </nav>
+        <div className="navi-2">
+          <a id="far-text">PRICING</a>
+          <a id="far-text">ABOUT</a>
+          <Link id="far-text" to="/Buy">
+            CONTACT
+          </Link>
+        </div>
+        <div className="header-right">
+          <a className="button-text">
+            <button onClick="buynow2()" className="button-buy">
+              Buy Now ->
+            </button>
+          </a>
+        </div>
+      </header>
+      <div id="menuToggle">
         <input type="checkbox" />
         <span></span>
         <span></span>
         <span></span>
         <ul id="menu">
-        <a href="#"><li>Home</li></a>
-        <a href="#"><li>About</li></a>
-        <a href="#"><li>Info</li></a>
-        <a href="#"><li>Contact</li></a>
-        <a href="https://erikterwan.com/" target="_blank"><li>Show me more</li></a>
+          <a href="#">
+            <li>OUR VISION</li>
+          </a>
+          <a href="#">
+            <li>PRICING</li>
+          </a>
+          <a href="#">
+            <li>ABOUT</li>
+          </a>
+          <a href="#">
+            <li>CONTACT</li>
+          </a>
         </ul>
-    </div>
+      </div>
     </>
   );
 }
