@@ -2,7 +2,6 @@ import React, { useState, useEffect } from "react";
 import logo from "./Monk -01.jpg";
 import textlogo from "./text-logo.png";
 import { Link, useLocation } from "react-router-dom";
-import ContactUs from "./ContactUs";
 
 function NavBar() {
   if (document.body.scrollTop > 100 || document.documentElement.scrollTop > 100) {
@@ -22,8 +21,10 @@ function NavBar() {
         </nav>
         <div className="navi-2">
           <a id="far-text">PRICING</a>
-          <a id="far-text">ABOUT</a>
-          <Link id="far-text" to="/Buy">
+          <Link id="far-text" to="/WhyUs">
+            WHY BUY?
+          </Link>
+          <Link id="far-text" to="/ContactUs">
             CONTACT
           </Link>
         </div>

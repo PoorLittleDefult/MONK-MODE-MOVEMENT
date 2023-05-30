@@ -1,8 +1,7 @@
 import React from 'react';
 import './App.css';
 import Home from "./Home"
-import Vision from "./Vision"
-import Buy from "./Buy"
+import Contact from "./Contact"
 import {Routes, Route} from "react-router-dom"
 
 function App() {
@@ -10,8 +9,7 @@ function App() {
     <div className='App'>
       <Routes>
          <Route path="/" element={ <Home /> } />
-         <Route path="/vision" element={<Vision />} />
-         <Route path="/buy" element={ <Buy />} />
+         <Route path="/Contact" element={ <Contact />} />
         </Routes>
     </div>
   );
