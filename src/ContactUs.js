@@ -30,10 +30,9 @@ export const ContactUs = () => {
           <label className='label-input' for="tel">Phone Number</label>
           <input className="input" name="email" placeholder="Your phone number..." id="tel" type="tel" required></input>
 
-          <input type="submit" id="send" value="I WANT IT!" ></input>
+          <input type="submit" id="send" value="GET IT NOW" ></input>
       </form> 
   );
 };
 
 export default ContactUs
-

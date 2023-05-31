@@ -1,4 +1,5 @@
 import React, { useState, useEffect, useRef} from "react";
+import background from "./background.svg"
 import handbook from "./course-box.png"
 import TextChanger from './TextChanger';
 import { Link } from "react-router-dom";
@@ -223,7 +224,7 @@ function Home(){
 		</div>
         </div>
     </div>
-    <h3 className="limited">ALL FOR $49 FOR A <span className="gradient-text-h2-2">LIMITED</span> TIME!</h3>
+    <h3 className="limited">ALL FOR $49 FOR A LIMITED TIME!</h3>
     </div>  
         <Footer />
     </>
